@@ -1,0 +1,28 @@
+{
+  "name": "stripe-checkout-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanChow0112/stripe-checkout-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BryanChow0112/stripe-checkout-practice/issues"
+  },
+  "homepage": "https://github.com/BryanChow0112/stripe-checkout-practice#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "stripe": "^17.6.0"
+  }
+}
